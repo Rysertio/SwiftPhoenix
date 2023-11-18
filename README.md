@@ -1,7 +1,3 @@
-**Name: SwiftPhoenix Compiler**
-
-**Readme:**
-
 # SwiftPhoenix Compiler
 
 SwiftPhoenix Compiler is a Ahead-of-Time (AOT) compiler for JavaScript, driven by the mission to transform sluggish code into swift and optimized machine code or LLVM Intermediate Representation (IR). Harness the power of SwiftPhoenix Compiler to breathe agility into your JavaScript applications and soar to new performance heights.
